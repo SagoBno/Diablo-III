@@ -1,4 +1,4 @@
-# diablo3
+# Diablo III
 
 ## Project setup
 ```
